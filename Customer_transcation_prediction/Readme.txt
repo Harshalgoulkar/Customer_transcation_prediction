@@ -13,9 +13,3 @@ and target columns. The target columns contain 0 and 1 value where 0
 means the customer will not do a transaction and 1 means the
 customer will do a transaction.
 
-Note: You can skip EDA part in this project as feature names are not
-provided.
-
-Model Comparison Report
-Create a report stating the performance of multiple models on this data and
-suggest the best model for production.
